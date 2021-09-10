@@ -1,6 +1,6 @@
 void feature1(){
 	println("hello");
 	println("vege");
-	
-exit();
+	println("vege 2");
+	exit();
 }
